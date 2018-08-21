@@ -26,4 +26,4 @@ Contains:
 ## ...and many other awesome libraries! ##
 
 
-*Arsalan Azmi 2018**
+*Arsalan Azmi 2018*
